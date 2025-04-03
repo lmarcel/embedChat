@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1> Chat salesforce </h1>
+    <h1> Chat salesforce 1</h1>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
